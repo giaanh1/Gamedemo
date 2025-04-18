@@ -1,0 +1,5 @@
+E:/unity/game/CrowdRunner/.utmp/RelWithDebInfo/223b3b5i/arm64-v8a/CMakeFiles/edit_cache.dir
+E:/unity/game/CrowdRunner/.utmp/RelWithDebInfo/223b3b5i/arm64-v8a/CMakeFiles/rebuild_cache.dir
+E:/unity/game/CrowdRunner/.utmp/RelWithDebInfo/223b3b5i/arm64-v8a/GameActivity/CMakeFiles/game.dir
+E:/unity/game/CrowdRunner/.utmp/RelWithDebInfo/223b3b5i/arm64-v8a/GameActivity/CMakeFiles/edit_cache.dir
+E:/unity/game/CrowdRunner/.utmp/RelWithDebInfo/223b3b5i/arm64-v8a/GameActivity/CMakeFiles/rebuild_cache.dir
